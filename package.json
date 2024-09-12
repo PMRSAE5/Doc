@@ -1,0 +1,62 @@
+{
+  "name": "lissi-doc",
+  "version": "0.1.1",
+  "private": true,
+  "engines": {
+    "node": ">=18.0",
+    "npm": "please-use-pnpm",
+    "yarn": "please-use-pnpm",
+    "pnpm": ">=9.1.2"
+  },
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "ci": "node ./cleanInstall.js",
+    "dev": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.4.0",
+    "@docusaurus/preset-classic": "^3.4.0",
+    "@docusaurus/theme-classic": "^3.4.0",
+    "@docusaurus/theme-mermaid": "^3.4.0",
+    "@mdx-js/react": "^3.0.1",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.4.5",
+    "prism-react-renderer": "^2.3.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "^3.4.0",
+    "@docusaurus/tsconfig": "^3.4.0",
+    "@docusaurus/types": "^3.4.0",
+    "@tailwindcss/forms": "^0.5.7",
+    "@types/node": "^20.14.0",
+    "@types/postcss-import": "^14.0.3",
+    "autoprefixer": "^10.4.19",
+    "just-pnpm": "^1.0.2",
+    "postcss": "^8.4.38",
+    "shx": "^0.3.4",
+    "tailwindcss": "^3.4.3",
+    "typescript": "~5.5.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 3 chrome version",
+      "last 3 firefox version",
+      "last 5 safari version"
+    ]
+  }
+}
