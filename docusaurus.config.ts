@@ -17,8 +17,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Olga", // Usually your GitHub org/user name.
-  projectName: "OlgaDoc", // Usually your repo name.
+  organizationName: "PMove", // Usually your GitHub org/user name.
+  projectName: "PmoveDoc", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -76,7 +76,7 @@ const config: Config = {
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       logo: {
-        alt: "OlgaDoc",
+        alt: "PMoveDoc",
         src: "img/logo.svg",
       },
       items: [
@@ -88,7 +88,7 @@ const config: Config = {
         },
         //        { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/Olga202424",
+          href: "https://github.com/PMRSAE5",
           className: "header-github-link",
           position: "right",
         },
@@ -137,7 +137,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} OlgaDoc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} PMove. Built with Docusaurus.`,
     },
     prism: {
       additionalLanguages: ["json"],

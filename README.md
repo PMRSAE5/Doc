@@ -1,10 +1,3 @@
-<p align="center">
-    <img src="static/img/OlgaLogo/doc/OlgaDocLogo.svg" width="600" alt="" style="pointer-events: none;">
-</p>
-<p align="center">
-    <img src="https://img.shields.io/endpoint?url=https://cloudflare-pages-badges.spokelaxpc.workers.dev/?projectName=olgadoc" alt="">
-</p>
-
 ## 🛠️ How to dev
 
 ### :wrench: Requirements

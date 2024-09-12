@@ -7,8 +7,5 @@ slug: /
 
 ## References
 
-- [GitHub](https://github.com/Olga202424)
-- [ADP-Dev](https://adp.olgagroup.uk) & [ADP-Prod](http://olga1.mercier.pro:9998)
-- [Frontend](https://adp.olgagroup.uk)
-- [Documentation](https://doc.olgagroup.uk)
-- [Server status](https://status.olgagroup.uk)
+- [GitHub](https://github.com/PMRSAE5)
+- [Documentation](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cosplay_of_Pikachu%2C_Fanime_2015_%2818125488996%29.jpg/330px-Cosplay_of_Pikachu%2C_Fanime_2015_%2818125488996%29.jpg)
